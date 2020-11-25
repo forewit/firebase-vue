@@ -29,3 +29,20 @@ export const db = firebase.firestore();
 export const auth = firebase.auth();
 export const storage = firebase.storage();
 ```
+
+## Routing
+1. run `npm install vue-router`
+2. in **main.js** add:
+
+```
+import VueRouter from 'vue-router'
+Vue.use(VueRouter)
+```
+## Vue Composition API
+1. Run `npm i @vue/composition-api`
+2. in **main.js** add:
+
+```
+import VueCompositionApi from '@vue/composition-api'
+Vue.use(VueCompositionApi)
+```

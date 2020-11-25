@@ -3,15 +3,15 @@ import 'firebase/firestore';
 import 'firebase/auth';
 import 'firebase/storage';
 
-const firebaseConfig = { 
+const firebaseConfig = {
     // Add your config here
-    apiKey: "AIzaSyAXKBV3XMmfXK6idyxkqkusVthFcs3yaJs",
-    authDomain: "vue-firebase-99a10.firebaseapp.com",
-    databaseURL: "https://vue-firebase-99a10.firebaseio.com",
-    projectId: "vue-firebase-99a10",
-    storageBucket: "vue-firebase-99a10.appspot.com",
-    messagingSenderId: "851903617033",
-    appId: "1:851903617033:web:2ac1e07ee8a216d43040d8"
+    apiKey: "AIzaSyAsBkU7NKqKn9gAV07V_21AkQMw3ZJQ9hQ",
+    authDomain: "canvas-2fdd2.firebaseapp.com",
+    databaseURL: "https://canvas-2fdd2.firebaseio.com",
+    projectId: "canvas-2fdd2",
+    storageBucket: "canvas-2fdd2.appspot.com",
+    messagingSenderId: "989212373436",
+    appId: "1:989212373436:web:2491b895c5a13ec3007bb9"
 };
 
 firebase.initializeApp(firebaseConfig);

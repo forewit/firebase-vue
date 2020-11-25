@@ -4,6 +4,8 @@
       <h1>Header</h1>
       <p>Realtime voice chat app</p>
     </header>
+
+    <router-view></router-view>
   </div>
 </template>
 
