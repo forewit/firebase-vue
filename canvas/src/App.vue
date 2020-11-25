@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <div class="outline" id="app">
     <header>
-      <h1>Header</h1>
+      <h1>App.vue</h1>
       <p>Realtime voice chat app</p>
     </header>
 
@@ -24,5 +24,5 @@ export default {
 </script>
 
 <style>
-
+.outline {border: solid black 2px}
 </style>

@@ -1,5 +1,7 @@
 <template>
-  <div>
+  <div class="outline">
+    <h2>UserProfile.vue</h2>
+
     Logged in as {{ user.uid }}<br>
     <button @click="auth.signOut()" class="button">Sign Out</button>
   </div>

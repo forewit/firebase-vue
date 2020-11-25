@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="outline">
+    <h2>User.vue</h2>
     <slot name="user" :user="user"></slot>
   </div>
 </template>

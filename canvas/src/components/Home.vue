@@ -1,6 +1,6 @@
   
 <template>
-  <div class="section">
+  <div class="outline">
     <h2>Home.vue</h2>
 
     <User v-slot:user="{ user }">
